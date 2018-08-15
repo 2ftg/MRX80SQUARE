@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Member From Class: ClassName=MRX80SQUARE Member=C15
+Removed Member From Class: ClassName=MRX80SQUARE Member=R6
+Change Component Footprint: Designator=C4 Old Footprint=0402 New Footprint=CAPC1005X04N_0402
+Change Component Comment : Designator=C4 Old Comment=Cap Semi New Comment=Capacitor
+Change component parameters: Designator = "C4"; Footprint = "CAPC1005X04N_0402"; UniqueID = "\SPOIUJCQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerRef"; Value = "MC0402B104K250CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OrderCode"; Value = "2310482"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SMD-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PriceEuro"; Value = "0.0055"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "9.5.2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "atr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seller"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoeff"; Value = "± 15%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC4_1

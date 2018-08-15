@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=MRX80SQUARE Member=C99
+Change Component Footprint: Designator=C7 Old Footprint=C1206 New Footprint=CAPC2012X06N_0806
+Change Component Comment : Designator=C7 Old Comment=Cap Semi New Comment=Capacitor
+Change component parameters: Designator = "C7"; Footprint = "CAPC2012X06N_0806"; UniqueID = "\DDARGDQE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerRef"; Value = "C0805C473J3GACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OrderCode"; Value = "1535570RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SMD-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerRating"; Value = "N.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PriceEuro"; Value = "0.28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "9.5.2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "atr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Seller"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoeff"; Value = "0ppm/°C ± 30ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "C0G / NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MRX80SQUARE Member=Component C7 Capacitor

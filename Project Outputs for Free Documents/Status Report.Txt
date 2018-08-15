@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MRX80SAQUARE.PcbDoc]
+   Generated File[MRX80SAQUARE.TXT]
+   Generated File[MRX80SAQUARE.LDP]
+   Generated File[MRX80SAQUARE.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:10:48 On 11.4.2017
